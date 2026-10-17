@@ -1,5 +1,5 @@
 /* AdivinhaAI 1.3 • PWA cache do aplicativo (não armazena dados do Firebase). */
-const CACHE_NAME = 'adivinhaai-v1.3.0';
+const CACHE_NAME = 'adivinhaai-v1.5';
 const APP_FILES = [
   './', './index.html', './manifest.webmanifest', './favicon.ico',
   './icons/favicon-16.png', './icons/favicon-32.png', './icons/favicon-48.png',
